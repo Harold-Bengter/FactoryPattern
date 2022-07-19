@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.exe
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.deps.json
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.dll
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\bin\Debug\net6.0\FactoryPatternExercise.pdb
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.dll
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\refint\FactoryPatternExercise.dll
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.pdb
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\FactoryPatternExercise.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Codewars\FactoryPatternExercise\FactoryPatternExercise\obj\Debug\net6.0\ref\FactoryPatternExercise.dll
